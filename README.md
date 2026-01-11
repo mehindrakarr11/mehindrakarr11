@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Rohan Mehindrakar (@mehindrakarr11)
+## 👋 Hi, I’m Rohan Mehindrakar (@mehindrakarr11) 👀
 
 I’m a **Full-Stack Developer** who enjoys building clean, responsive, and user-friendly web applications. I like working at the intersection of **development and design**, where good UI meets solid backend logic.
 
