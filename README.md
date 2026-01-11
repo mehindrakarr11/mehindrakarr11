@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @mehindrakarr11
-- 👀 I’m interested in web development and UI/UX Designing
-- 🌱 I’m currently learning UI/UX Design
-- 📫 How to reach me - Mail me on mehindrakarr11@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an freelancer and want to develop websites for the start-up companies and make turn there website into best reachable and responsive website.
+## 👋 Hi, I’m Rohan Mehindrakar (@mehindrakarr11)
 
-<!---
-mehindrakarr11/mehindrakarr11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Full-Stack Developer** who enjoys building clean, responsive, and user-friendly web applications. I like working at the intersection of **development and design**, where good UI meets solid backend logic.
+
+### 👀 What I’m interested in
+- Web Development  
+- UI/UX Design  
+- Building real-world products for startups  
+
+### 🌱 Currently learning
+- Advanced **UI/UX Design**
+- Improving performance and scalability in full-stack apps
+
+### 🛠 Tech Stack
+- **Frontend:** Next.js, React, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Languages & Tools:** TypeScript, Git, REST APIs, GraphQL  
+- **DevOps & Cloud:** Docker, AWS  
+
+### 💼 What I do
+I’m a **freelancer** who helps startups and individuals turn ideas into fully functional, responsive, and scalable websites. My goal is to build products that not only look good but also work smoothly in real-world use.
+
+### 📫 Reach me
+📧 Email: **mehindrakarr11@gmail.com**
+
+### ⚡ Fun fact
+I enjoy transforming simple ideas into polished digital products that people actually love using.
